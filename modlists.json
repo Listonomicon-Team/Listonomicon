@@ -23,21 +23,18 @@
       "image": "https://raw.githubusercontent.com/ajaxxxxxxxx/Listonomicon/main/Listo_placeholder_title.png",
       "readme": "https://github.com/ajaxxxxxxxx/Listonomicon/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "ListoMachineURL",
+      "machineURL": "Listonomicon/Listonomicon",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
 	  "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 1,
-      "NumberOfInstalledFiles": 1,
-      "SizeOfInstalledFiles": 1
+      "Hash": "Utkern506RU=",
+      "Size": 3527747,
+      "NumberOfArchives": 272,
+      "SizeOfArchives": 10117742954,
+      "NumberOfInstalledFiles": 2719,
+      "SizeOfInstalledFiles": 12272495108
     },
-    "version": "0.9",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-23T21:16:41.2789362Z",
-    "repositoryName": ""
+    "version": "0.9"
   }
 ]
