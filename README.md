@@ -13,5 +13,4 @@ Save Safe?: NO
 * [View included and rejected mods for 0.9 here](https://docs.google.com/spreadsheets/d/1PMiKCHX8Z2WRwqXoCThW8oPxZFau13UcQGitSoo6n-s/edit?usp=sharing)
 
 ### This is the initial, beta release candidate for Listonomicon. 
-It is not considered a final product, but it is ready for playtesting in a larger group than just the two authors. If you are interested in providing feedback and helping us on the road to 1.0, we believe Listo is already an envigorating experience!
- 
+It is not considered a final product, but it is ready for playtesting in a larger group than just the two authors. If you are interested in providing feedback and helping us on the road to 1.0, we believe Listo is already an envigorating experience! **The list currently has Aether's Obliterate enabled** as a dev testing speed tool as well as a final solution if you run into any hard progress errors (such as fights causing a game crash). We recommend you remove the two spells automatically added to your hotbar, or disable the mod in Mod Organizer if you cannot resist the temptation to cheat. Once a game starts with the mod enabled, however, it must be left enabled and you will just have to ignore the temptation of power.
