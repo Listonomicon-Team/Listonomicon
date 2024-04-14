@@ -2,6 +2,14 @@
 The goal of the “Listonomicon” is to be an out-of-the-box experience that enhances Baldurs Gate 3’s UI, quality of life, and replay value; introduces beloved aspects of the tabletop game’s past and present; and widens and deepens the game mechanics while respecting Larian’s vision for adapting DnD5e to an enjoyable cRPG. If you have questions, want to give feedback to the list curators, or run into trouble, please find ajax and LillyBird in [Boneyard Creations](https://discord.gg/UycnjCzKP8). If you face issues with the list, ask us first before bothering Wabbajack help or the creators of the many, many mods in Listonomicon.
 
 ## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
+# [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
+## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
+## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
+# [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
+## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
+## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
+# [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
+## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
 
 # Releases (Newest to Oldest)  
 
