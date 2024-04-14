@@ -21,9 +21,9 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listo_placeholder_title.png",
+      "image": "https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/ListoArt.jpg",
       "readme": "https://github.com/Listonomicon-Team/Listonomicon/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Listonomicon.wabbajack_7e61376f-9fb0-4b93-9384-f11f60d2658a",
+      "download": "https://authored-files.wabbajack.org/Listonomicon_0.9.1.wabbajack_2b4a5685-549c-43d2-89b8-dc0cfddfd5f5",
       "machineURL": "Listonomicon",
       "discordURL": "https://discord.gg/43EhRjU"
     },
