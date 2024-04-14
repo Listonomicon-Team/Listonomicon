@@ -1,7 +1,7 @@
 [
   {
     "title": "Listonomicon",
-    "description": "Listonomicon exists to celebrate Dungeons and Dragons past and present, bringing old and current published material (and limited, popular, third party, OSR, and Pathfinder) to Larian's adaptation of 5e. It improves UI, QoL, and gameplay mechanics while adding new options, encounters, dangers, cosmetics, and fun.",
+    "description": "Listonomicon exists to celebrate Dungeons and Dragons past and present, bringing old and current published material (and limited, popular, third party, OSR, and Pathfinder) to Larian\u0027s adaptation of 5e. It improves UI, QoL, and gameplay mechanics while adding new options, encounters, dangers, cosmetics, and fun.",
     "author": "Ajax and LillyBird",
     "maintainers": [
       "github/ajaxxxxxxxx",
@@ -11,10 +11,10 @@
     "official": false,
     "tags": [
       "Cosmetics",
-      "Vanilla+",
+      "Vanilla\u002B",
       "Roleplay",
       "Nevernude",
-      "New Game+",
+      "New Game\u002B",
       "Level 20 Cap",
       "PF2e",
       "5e Spells",
@@ -28,19 +28,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/ListonomArtBetter.jpg",
       "readme": "https://github.com/Listonomicon-Team/Listonomicon/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Listonomicon_0.9.1.wabbajack_2b4a5685-549c-43d2-89b8-dc0cfddfd5f5",
+      "download": "https://authored-files.wabbajack.org/Listonomicon.wabbajack_f7d84b64-2cc9-42f1-84a4-359f4750c1d5",
       "machineURL": "Listonomicon",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-	  "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Utkern506RU=",
-      "Size": 3527747,
+      "Hash": "tNQQOSW0pyc=",
+      "Size": 2441127,
       "NumberOfArchives": 272,
       "SizeOfArchives": 10117742954,
       "NumberOfInstalledFiles": 2719,
-      "SizeOfInstalledFiles": 12272495108
+      "SizeOfInstalledFiles": 12272495197
     },
-    "version": "0.9.1"
+    "version": "0.9.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-04-14T22:29:56.0439174Z",
+    "repositoryName": ""
   }
 ]
