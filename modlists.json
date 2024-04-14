@@ -4,8 +4,8 @@
     "description": "Listonomicon exists to celebrate Dungeons and Dragons past and present, bringing old and current published material (and limited, popular, third party, OSR, and Pathfinder) to Larian's adaptation of 5e. It improves UI, QoL, and gameplay mechanics while adding new options, encounters, dangers, cosmetics, and fun.",
     "author": "Ajax and LillyBird",
     "maintainers": [
-      "github.com/ajaxxxxxxxx",
-      "github.com/LillyBird69"
+      "github/ajaxxxxxxxx",
+      "github/LillyBird69"
     ],
     "game": "baldursgate3",
     "official": false,
