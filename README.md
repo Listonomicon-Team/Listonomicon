@@ -13,6 +13,16 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 # Releases (Newest to Oldest)  
 
+# Release 0.9.3  
+Save Safe?: ABSOLUTELY NOT
+Updated 15 mods.
+Updated mod settings to now properly apply CX level scaling for enemies, helping Listo achieve the advertised and intended difficulty curve!
+Absolutely not save safe due to removing Aether's Obliterate. Trying to load a save that references now missing data (gear, equipment, spells, etc) will bork your game.
+
+# Release 0.9.1 and 0.9.2  
+Save Safe?: NO
+Apologies for lack of notes but these version numbers were used for internal testing only.
+
 # Release 0.9  
 Save Safe?: NO   
   
