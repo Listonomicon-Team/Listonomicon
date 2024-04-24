@@ -13,6 +13,13 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 # Releases (Newest to Oldest)  
 
+# Release 0.9.4
+Save safe?: Probably safe with 0.9.3
+Updated 7 mods.
+Added several new races from Fantastic Multiverses. Updating mod settings due to the related mods adding new features. Added smart cunning action and invisibility movement fix. More cosmetics.
+
+* [View included and rejected mods for v0.9.4 here](https://docs.google.com/spreadsheets/d/17wfo8kVGRTRQ5mdvuQtHZ1sWPc4BTEor5K1JQ5pP_4M/edit?usp=sharing)
+
 # Release 0.9.3  
 Save Safe?: ABSOLUTELY NOT
 Updated 15 mods.
