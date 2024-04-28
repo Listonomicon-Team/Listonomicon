@@ -18,7 +18,7 @@ Save safe?: Probably safe with 0.9.4
 Updated 8 mods.
 BIG WITHERS MONEY UPDATE: Withers is now a trader. He has taken several dyes and other clutter out of the inventory of his fellow shopkeepers, and has become the exclusive dealer of some comsetic mods. Three cheers for less cluttered shopping experiences everywhere else.
 
-*[View included and rejected mods for v0.9.5 here](https://docs.google.com/spreadsheets/d/1I8KFLxnhMK4UNyHhSeubBIsd3P_88DTzhFDnyfeWFec/edit?usp=sharing)
+* [View included and rejected mods for v0.9.5 here](https://docs.google.com/spreadsheets/d/1I8KFLxnhMK4UNyHhSeubBIsd3P_88DTzhFDnyfeWFec/edit?usp=sharing)
 
 # Release 0.9.4
 Save safe?: Probably safe with 0.9.3
