@@ -13,6 +13,16 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 # Releases (Newest to Oldest)  
 
+# Release 0.9.6
+Save safe?: No.
+1. Briny Bolt has been moved off of regular casters and is now exclusive to boss fights. I'm sorry for everyone who was blinded trying to find Withers.
+2. Mod settings and the BG3MM are now 1 download. The manual install instructions are still the same (drag and drop to the right places for mod settings, load the .json in BG3MM and hit deploy to game) but there's less places to hunt down files.
+3. 7 mods have been updated.
+4. Better Hotbar 2 has been replaced with BH2 "Vova's Edition." **Please let us know what this experience is like**. Was the old hotbar better?
+5. **XP curve has been finally fixed**. This means the update is not save safe as changing XP requirements mid game will break leveling. You will now hit **level 3 in the tutorial**, and have a slower path to level 20. But with the extra encounters and working level scale, this should mean the level pace is now where Listo wanted it. As always, please provide feedback on this critical area.
+6. Added 1 new gameplay mod (JWL Discordant Instruments), added an achievement enabler, 2 more sets of eyes and 1 hair pack.
+7. We removed all mods by Aether at their request. We thank the many mod authors who have shown support to Listonomicon :)
+
 # Release 0.9.5
 Save safe?: Probably safe with 0.9.4
 Updated 8 mods.
