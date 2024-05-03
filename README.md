@@ -23,6 +23,8 @@ Save safe?: No.
 6. Added 1 new gameplay mod (JWL Discordant Instruments), added an achievement enabler, 2 more sets of eyes and 1 hair pack.
 7. We removed all mods by Aether at their request. We thank the many mod authors who have shown support to Listonomicon :)
 
+* [View included and rejected mods for v0.9.6 here](https://docs.google.com/spreadsheets/d/1MlDHuPSKjZNKN-sN_NX1sJd2cnmgyFNqrFy2Eo4Cg_w/edit?usp=sharing)
+
 # Release 0.9.5
 Save safe?: Probably safe with 0.9.4
 Updated 8 mods.
