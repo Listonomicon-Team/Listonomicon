@@ -15,6 +15,19 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 # Releases (Newest to Oldest)  
 
+* [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
+
+
+# Release 0.9.7
+Save safe?: No.
+1. Enemy HP bonuses are reigned in to be ideally half of what they were before.
+2. Removed the acceleration bonus to movement speed (but kept the increased movement speed itself) done
+3. Remove firearms mod
+4. Firework spell has been moved off the basic caster list.
+5. Withers Little Money update: He should now only sell basic supplies and food. Note that any gear sold to him from mods will be stuck in his inventory forever, just like a lot of other shop keepers.
+6. Thanks to @yuuko_shionji I have added tweaks to Dynamic Sidebar to reduce the size of statuses, and to let them wrap into two rows.
+7. Added Faith and Fortitude (Act 1), introducing new Cleric-centric gear throughout Act 1.
+
 # Release 0.9.6
 Save safe?: No.
 1. Briny Bolt has been moved off of regular casters and is now exclusive to boss fights. I'm sorry for everyone who was blinded trying to find Withers.
@@ -25,21 +38,15 @@ Save safe?: No.
 6. Added 1 new gameplay mod (JWL Discordant Instruments), added an achievement enabler, 2 more sets of eyes and 1 hair pack.
 7. We removed all mods by Aether at their request. We thank the many mod authors who have shown support to Listonomicon :)
 
-* [View included and rejected mods for v0.9.6 here](https://docs.google.com/spreadsheets/d/1MlDHuPSKjZNKN-sN_NX1sJd2cnmgyFNqrFy2Eo4Cg_w/edit?usp=sharing)
-
 # Release 0.9.5
 Save safe?: Probably safe with 0.9.4
 Updated 8 mods.
 BIG WITHERS MONEY UPDATE: Withers is now a trader. He has taken several dyes and other clutter out of the inventory of his fellow shopkeepers, and has become the exclusive dealer of some comsetic mods. Three cheers for less cluttered shopping experiences everywhere else.
 
-* [View included and rejected mods for v0.9.5 here](https://docs.google.com/spreadsheets/d/1I8KFLxnhMK4UNyHhSeubBIsd3P_88DTzhFDnyfeWFec/edit?usp=sharing)
-
 # Release 0.9.4
 Save safe?: Probably safe with 0.9.3
 Updated 7 mods.
 Added several new races from Fantastic Multiverses. Updating mod settings due to the related mods adding new features. Added smart cunning action and invisibility movement fix. More cosmetics.
-
-* [View included and rejected mods for v0.9.4 here](https://docs.google.com/spreadsheets/d/17wfo8kVGRTRQ5mdvuQtHZ1sWPc4BTEor5K1JQ5pP_4M/edit?usp=sharing)
 
 # Release 0.9.3  
 Save Safe?: ABSOLUTELY NOT
@@ -52,11 +59,7 @@ Save Safe?: NO
 Apologies for lack of notes but these version numbers were used for internal testing only.
 
 # Release 0.9  
-Save Safe?: NO   
-  
-**Mod List**  
-
-* [View included and rejected mods for 0.9 here](https://docs.google.com/spreadsheets/d/1PMiKCHX8Z2WRwqXoCThW8oPxZFau13UcQGitSoo6n-s/edit?usp=sharing)
+Save Safe?: NO
 
 ### This is the initial, beta release candidate for Listonomicon. 
 It is not considered a final product, but it is ready for playtesting in a larger group than just the two authors. If you are interested in providing feedback and helping us on the road to 1.0, we believe Listo is already an envigorating experience! **The list currently has Aether's Obliterate enabled** as a dev testing speed tool as well as a final solution if you run into any hard progress errors (such as fights causing a game crash). We recommend you remove the two spells automatically added to your hotbar, or disable the mod in Mod Organizer if you cannot resist the temptation to cheat. Once a game starts with the mod enabled, however, it must be left enabled and you will just have to ignore the temptation of power.
