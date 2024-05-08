@@ -17,6 +17,13 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v0.9.8
+Save safe? Yes
+1. Used Yuuko's better auto junk list to save sponges and cleaning supplies (thanks @yuuko_shionji again).
+2. Removed sell_list.json and replaced with blank one.
+3. Update customized difficulty to x4 prices to *actually* do what I wanted it to. If you have already started a game, you can adjust this in your custom game difficulty settings manually.
+4. Added Undead Warlock, a class I have had my eye on for a long time but was waiting to receive more updates. Thank you @mattwiththegat for bringing it back to our attention to look at again.
+5. Adjusted the mod order in BG3MM *slightly* to move the compatibility framework back to the bottom, just in case other changes knocked it into a position where it no longer did its job.
 
 # Release 0.9.7
 Save safe?: No.
