@@ -17,6 +17,18 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v0.9.9
+Save safe? Ehh I wouldn't recommend it
+
+## The Big Yuuko Update
+
+1. Incorporated a patch by @yuuko_shionji which moves various dye mods, camp clothes, and other miscellaneous items to Withers and off of vendors. You should no longer be swamped with 30 cosmetics and misc items for sale at Aaron and Damian and every single other vendor. Yuuko doesn't want to upload their patch to nexus themself to get the credit for their work so everyone who is happy to escape the tyranny of cluttered shopkeepers, please thank Yuuko in the Discord.
+2. Added Unlock Level Curve 13-20 expansion. This fills the gap on several vanilla classes/subclasses where Unlock Level Curve has not yet updated to cover features after level 13 (or scaling features after 13). This is a big change to many classes and could be a big swing in performance, please let us know what you encounter and what you think. There is an optional file to disable class features on a per-class basis, but there is no option for more granular control to enable/disable specific class features or changes to class features. Thank you @garrynards for bringing this mod to our attention!
+3. Updated several mods, including one which adds physx to vanilla piercings and also requires a slight edit to Gale's head (and fix to his beard).
+4. Auto junker has been made to play nice with the auto use soap mod, and now cleaning materials will not be treated as junk or thrown away. That being said, make sure to re-apply the steps on installing Listo's mod settings for this update as normal.
+5. Shove, and other attacks that move enemies, now has a slightly adjustable targeting angle! Read about it here https://www.nexusmods.com/baldursgate3/mods/9371. We have been waiting for this!! 
+6. Took another swing at adjusting enemy HP via Combat Extender. Bosses slightly more, normals the same. Enemy scaling has been altered slightly, please read the updated Listo google doc.
+
 # Listonomicon v0.9.8
 Save safe? Yes
 1. Used Yuuko's better auto junk list to save sponges and cleaning supplies (thanks @yuuko_shionji again).
