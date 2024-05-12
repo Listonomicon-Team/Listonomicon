@@ -17,6 +17,16 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v0.9.9.1
+Safe safe? No
+
+1. REMOVED Script Extender as a download in MO2. Please continue to install it manually as per gdoc instructions. Uncomfirmed if this was the problem.
+2. UPDATED Listo mod settings, please re-do this install step. Uncomfirmed if this was the problem.
+3. REMOVED Zhent trader in Act 1 having so many goodies, due to numerous unintended consequences + newer mods better meeting the intent.
+4. Updated a bunch of mods.
+5. DISABLED the monk-specific parts of Level 13-20 Extended, as the relatively comprehensive monk class mod combined with other Listo mods serve most of the same purpose.
+6. Added a new bard-oriented outfit, better hex icons, and shadow sorcerers.
+
 # Listonomicon v0.9.9
 Save safe? Ehh I wouldn't recommend it
 
