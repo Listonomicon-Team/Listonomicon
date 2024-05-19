@@ -3,19 +3,40 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) to manually download the .wabbajack, if that is your preferred install method.
 
-## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
 # [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
-## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
-## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
-# [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
-## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
-## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
-# [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
-## [Install instructions and game guide](https://docs.google.com/document/d/15A-MscG3uYFf5_G8TkGYnJaq_2NBv9fo1mT-fwjUMCg/edit?usp=sharing)
 
 # Releases (Newest to Oldest)  
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
+
+# Listonomicon v0.9.9.2
+
+## The Big Community Feedback, Cleaning Up Legacy Issues, Changing Outdated Decisions, and Optional Mods Update
+Save safe? No.
+
+1. REMOVED Cleric Subclasses. Hopefully this mod will receive updates and fixes, or individual cleric class mods will fill in the gap.
+2. REMOVED Alternate Monk Complete. Hopefully this mod will receive updates and fixes, or individual cleric class mods will fill in the gap.
+3. REMOVED PF2e Spells. This is now an "Optional" mod.
+4. REMOVED Legendary Equipment - Class and Armor Sets.
+5. REMOVED Better Autosort Containers. This is now an "Optional" mod. Read below.
+6. ADDED around 14 new cosmetic mods.
+7. ADDED around 8 new gameplay mods - but some of these are optional. Read below.
+8. ADDED Homebrew Spells, to help make up for the loss of PF2e. RIP.
+9. ADDED alternate options for UI mods to better suit ultrawide 21:9 players.
+10. UPDATED Listo mod settings, please re-do this install step as always. It may be safest to nuke the contents of %appdata%/local/larian studios/script extender first to get rid of anything old and no longer needed.
+11. UPDATED Yuuko Shionji's Listonomicon Patch to address a magic item economy inflation issue in AEE.
+
+## Listonomicon Now Has "Optional" Mods
+
+Support is not explicitly offered for enabling these mods. Anyone trying to play Multiplayer should probably ignore them to avoid introducing new sources of conflict. For everyone else, this includes:
+1. Re-adding PF2e to the game, for those who can't live without it.
+2. Alternate Dynamic Sidebar options.
+3. 21:9 versions of Better Hotbar and the Party View.
+4. Extending Wild Magic to a d100 table of whacky effects.
+5. Re-adding autosort containers, for those who really like bags.
+6. The older "Spell List Combiner" in case the updated replacement does not work for you.
+
+Optional files _should_ be able to be placed anywhere in your BG3MM load order, with the exception of PF2e spells which must be below Unlock Level Curve and 5e Spells.
 
 # Listonomicon v0.9.9.1
 Safe safe? No
