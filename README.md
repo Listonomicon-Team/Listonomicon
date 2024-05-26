@@ -9,7 +9,7 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-# Listonomicon v0.9.9.3
+# Listonomicon v0.9.9.4
 Safe safe? Very no.
 
 1. ADDED "Automatically Hide Summons" as a QoL feature.
@@ -28,7 +28,7 @@ Safe safe? Very no.
 14. REPLACED an older spell list sorter mod with a newer spell list sorter mod (which should be more compatible with non-English languages and break less often)
 15. Got my head out of my ass and figured out how to actually include optional mods. All of the old attempt optional mods are gone, what you have now are ultrawide 21:9 UI options. Make sure to disable the corresponding 16:9 mod.
 
-# Listonomicon v0.9.9.2
+# Listonomicon v0.9.9.3
 Skipped, all internal testing.
 
 # Listonomicon v0.9.9.2
