@@ -26,6 +26,7 @@ Safe safe? Very no.
 12. All enemies will have a little more HP, though not quite to "Stronger Bosses and Enemies" CX config level. Bosses now have an extra bonus action. Enemies have a slight damage buff that scales slightly sooner. Enemy AC scaling has been slightly delayed to scale later. Enemy bonus to hit and stat increases kick in slightly sooner.
 13. Updated mods. Updated updates. So many updates. As I was finishing this update Community Library snuck in a midnight update. ahhhhhh
 14. REPLACED an older spell list sorter mod with a newer spell list sorter mod (which should be more compatible with non-English languages and break less often)
+15. Got my head out of my ass and figured out how to actually include optional mods. All of the old attempt optional mods are gone, what you have now are ultrawide 21:9 UI options. Make sure to disable the corresponding 16:9 mod.
 
 # Listonomicon v0.9.9.2
 Skipped, all internal testing.
