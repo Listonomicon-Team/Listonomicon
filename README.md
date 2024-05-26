@@ -9,6 +9,27 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v0.9.9.3
+Safe safe? Very no.
+
+1. ADDED "Automatically Hide Summons" as a QoL feature.
+2. ADDED "Statue Bless Fix" so your Act 3 gold investment feels less silly.
+3. ADDED "Way of the Long Death" as a monk subclass.
+4. ADDED "Monk 5e Adjustments" as a more modern alternative to Alternate Monk, combined with the changes from Expansion 13-20.
+5. ADDED "Astral" as a half-elf choice to go with astral elves.
+6. ADDED "Wild Magic d100" - this is a test candidate that needs feedback. I don't know if all 80 new wild magic surges work or not so if you do not want to be a gineau pig, you can safely disable this mod before starting a new game. Otherwise expect Wild Magic Barbarian and Sorcerer to get whacky.
+7. ADDED a rising % chance for a wild magic surge to occur for each spell cast in combat.
+8. ADDED several cosmetic mods.
+9. REMOVED Ranger Leather Armor. The armor is aesthetically pleasing but so statistically underwhelming that I don't think anyone has ever bought a set in Listo.
+10. UPDATED Volition Cabinet, and related mods, to the Mod Configuration Menu-empowered version. Hit "Insert" to open the MCM menu when in game. NOTE: Any changes to mod settings is considered changing Listonomicon and will earn you a +custom :)
+11. TWEAKED mod settings across the board.
+12. All enemies will have a little more HP, though not quite to "Stronger Bosses and Enemies" CX config level. Bosses now have an extra bonus action. Enemies have a slight damage buff that scales slightly sooner. Enemy AC scaling has been slightly delayed to scale later. Enemy bonus to hit and stat increases kick in slightly sooner.
+13. Updated mods. Updated updates. So many updates. As I was finishing this update Community Library snuck in a midnight update. ahhhhhh
+14. REPLACED an older spell list sorter mod with a newer spell list sorter mod (which should be more compatible with non-English languages and break less often)
+
+# Listonomicon v0.9.9.2
+Skipped, all internal testing.
+
 # Listonomicon v0.9.9.2
 
 ## The Big Community Feedback, Cleaning Up Legacy Issues, Changing Outdated Decisions, and Optional Mods Update
