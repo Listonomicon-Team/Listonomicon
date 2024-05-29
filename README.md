@@ -9,6 +9,15 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v0.9.9.5
+## The Encounters Gone Wild Magic Update (aka the CXXX Update)
+
+1. ADDED "Action Resource Passives." This utility mod changes nothing in your game directly, but it is a library of effects that can be used with Combat Extender to further customize enemies.
+2. TWEAKED Combat Extender mod settings HEAVILY. Over 200 lines of json code have been added, spicing up a variety of Act 1, 2, and 3 encounters with never-before-seen twists and dangers. Combined with the d100 Wild Magic Surges mod, this now provides the opportunity for your goblin, fey, mephit, and kuo toa spell casters to trigger a number of random effects. These are not always obvious; be on the look out for the surge VFX and makek sure to inspect enemies to see if they have gotten any crazy buffs - or debuffs! Many Act 1 boss fights have been altered and a few non-boss encounters have been turned into pseudo-boss fights. BE ON YOUR TOES!
+3. REMOVED the physx piercings mod. While I very much like the author's work, the reality is that incompatibility with custom heads means the piercings are just broken options to click through for 90% of the cosmetic options in Listo. This also means Gale Edits was removed as it is no longer needed.
+4. REMOVED the 5e-spells specific portions of the "5e Spells Duration Fixes" mod due to its age and lack of updates/compatibility with the current state of 5e spells.
+5. ADDED Valdacil's Spell Adjustments Vanilla, 5e, and VFX to preserve most of the spell rebalancing ideas. NOTE that this makes several key changes to spells you have be used to behaving a certain way in older Listo versions; make sure to read tooltips carefully!
+
 # Listonomicon v0.9.9.4
 Safe safe? Very no.
 
