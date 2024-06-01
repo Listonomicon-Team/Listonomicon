@@ -10,7 +10,7 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
 # Listonomicon v0.9.9.6
-# The Dungeons & Daedra Update
+# The Deities & Demigods Update
 
 1. ADDED Gods Extra, and specific 6 deities from OddCoward which restore cut dialogue and RP opportunities for Bhaal, Jergal, Myrkul, Shar, Silvanus, and Bane's faithful. NOTE this will default all controllable characters to a deity that does not reflect their lore, however you can respec at Withers to an appropriate faith or an appropriate lack of faith.
 2. TWEAKED Combat Extender further, based on actual play testing/running multiple fights against the Phase Spider Matriarch and goblin camp NPCs to ensure that they only have features that their AI and the game can handle and will function as expected. Act 1 enemy Rangers have less access to spells. If you only want these tweaks without updating, check the pinned file in the #cx-xxx-xperimental channel.
