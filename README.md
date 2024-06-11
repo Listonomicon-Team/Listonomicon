@@ -9,6 +9,20 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v0.9.9.7
+# The Deities & Demigods Update 2
+# Save safe from v0.9.9.6? Maybe - no if you are playing a lich.
+
+1. ADDED Faithful and Faithless, and Origins Gods. These mods build on top of the last update, which enabled all classes to pick a deity. Unfortunately, it force defaulted all characters to deities that did not make sense, which has no real gameplay impact but bothers me. Origins Gods assigns an appropriate faith to all playable and recruitable characters (though it is still up to you to make any necessary updates, if Act 2 or Act 3 events causes anyone to change allegiances...)
+2. ADDED Multiclass Preferred Casting Ability. In theory this should fix issues where multiclassing caused a character's "Spellcasting Stat" to be reassigned from what they actually want to use, to whatever their new class is. For example, the classic Sorcerer 19 / Storm Cleric 1 with maxed out Charisma and dumped Wisdom, just trying to get that sweet sweet lightning damage bonus, would also have Wisdom assigned as their "Spellcasting Stat," interfering with things such as scrolls, Illithid powers, or the Infernal Rapier. This should remove tedium with having to plan your multiclasses around ensuring your preferred stat class is chosen last.
+3. ADDED the Caustic Feat, which is like Elemental Adept but for poison damage spells.
+4. ADDED Way of the Astral Self Monk subclass.
+5. ADDED The Lads, Onyx Eye Collection, and Ghouls Custom Piercings.
+6. UPDATED many, many, many mods. Many of these updates include cosmetic mods which have added even more heads and customization options, especially for the playable undead lovers!
+7. POSSIBLY solved the issue that caused some Listonomicon playthroughs to end prematurely due to crashing whenever the game required the dice roll UI. This was possibly caused by the Trade Clutter Begone (TCB) mod, which the author diagnosed as causing save corruptions when unexpectedly dedicated game safeguards tried to force un-delete the vendor trash that TCB tried to delete. This silent battle in the invisible recesses of vendor inventories is why no one could find and destroy corrupted items (as every Reddit help thread said we should try to do). The update to TCB v1.3 promises to have this issue fixed. Moreoever, the mod now uses MCM. BY DEFAULT, there is a large list of junk items which were manually chosen, and will be deleted as soon as a vendor's inventory is closed after sale. This makes it safer to mass dump all of your vendor trash wares, without cluttering vendors *too* much. However, if you want even less trader clutter, you can enable the deletion of all sold items. CAUTION: Leave the setting enabled to only delete Common-rarity items from vendors, or else if you accidentally sell a magic item to Arron and close the inventory that crafty halfling bastard will hide it forever and force you to reload a save when you realize the Periapt of Wound Healing is actually based and not "some dumb heart necklace who needs healing anyway." Even if you do not plan to update Listo to v0.9.9.7, I would recommend you update this specific mod.
+8. The updates to Ghouls Playable Undeads will break in-progress Lich playthroughs. All other undead should be* fine to update mid playthrough. But in general, mid-playthrough updated is not recommended to most people.
+9. Further tweaked Combat Extender
+
 # Listonomicon v0.9.9.6
 # The Deities & Demigods Update
 
