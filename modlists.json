@@ -27,21 +27,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/ListonomArtBetter.jpg",
       "readme": "https://github.com/Listonomicon-Team/Listonomicon/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Listonomicon.wabbajack_6f874e33-52b0-416b-8c66-bb917cdfb073",
+      "download": "https://authored-files.wabbajack.org/Listonomicon.wabbajack_ecd933e7-4bf5-4987-b67b-37daa166ae45",
       "machineURL": "Listonomicon",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "xSfTKsfb8/8=",
-      "Size": 2987555,
-      "NumberOfArchives": 346,
-      "SizeOfArchives": 12756021118,
-      "NumberOfInstalledFiles": 2936,
-      "SizeOfInstalledFiles": 15399632999
+      "Hash": "qZqts5nCYws=",
+      "Size": 3011223,
+      "NumberOfArchives": 355,
+      "SizeOfArchives": 13019635808,
+      "NumberOfInstalledFiles": 2955,
+      "SizeOfInstalledFiles": 15734431930
     },
-    "version": "0.9.9.6",
+    "version": "0.9.9.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-06-01T20:17:40.0576318Z",
+    "dateUpdated": "2024-06-11T23:01:14.2325311Z",
     "repositoryName": ""
   }
 ]
