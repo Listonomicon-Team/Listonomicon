@@ -9,6 +9,26 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v0.9.9.8
+# The [Witty Title] Update
+# Save safe? No. No. No. Absolutely not.
+
+1. REPLACED the XP/level curve. Previously, Listo required aboutt 306k total XP to reach level 20, it now requires 401k total XP. The bulk of increased XP requirements are in the second half, meaning that you should still be level 3 at the end of the tutorial; you should reach level 6 relatively quickly as you knock out early Act 1 content; the progression will be more vanilla-like around level 10; and then it will be noticeably slower on the way to level 20. For comparison, vanilla BG3 would theoretically require about 360K to reach level 20, but because of AEE adding more encounters, and CX making encounters scale to the players level (including increased XP rewards), it is still possible to reach level 20 by the end of the game. The goal is not to move level 20 out of reach; the goal is to reduce the rate at which players are exploring the Gith Creche and already level 12+. Feedback/playtesting, as always, is needed.
+2. ADDED Death Domain as a Cleric class.
+3. ADDED Durge's Managed Head. This mod is a new base for dragonborn, enabling cosmetics for this previously underserved race. No new female dragonborn options yet :( but making progress.
+4. ADDED Crystal Crowns, which adds more crest and horn options to Durge's Managed Head.
+5. ADDED Missing Gods, more heads for vanilla races.
+6. ADDED Indoct's Subtle Piercings.
+7. ADDED Heir of Thunder for a sweet rockin' hairdo.
+8. ADDED Astralities Fluffy Ears, for you degenerates.
+9. ADDED Fantastical Stylist. This patch brings various cosmetic hair mods to many of the races from Fantastical Multiverse, such as Firbolgs. The options for these races is still far smaller than vanilla races, but it's nice to see them granted more options!
+10. REMOVED Vanilla Equipment Overhaul, something that I have mixed feelings about. Some of the items added/changed were really nice, some ranged the gamut from unbalanced to actually non-functional. This means the selection of good magic items will be smaller, as many old Gale Food items are now squarely back in the Gale Food category, but do not forget about JWL Soul Smithing as a way to improve the magic weapons that are still viable.
+11. REMOVED Unlock Level Curve. This is something I should have done many updates ago, as ULC and Expansion 13-20 are two mods that do the same thing and have both been in Listo for a while now. I don't know if particular conflicts between the two mods is/was responsible for situations players were running into where they were stuck at the level up screen, or if that was an issue that a recent ImprovedUI Assets update fixed, either way I hope it's gone.
+12. REMOVED various patches related to VEO and ULC that are no longer necessary.
+13. UPDATED a ton of mods.
+14. FIXED (hopefully) the distribution of the BG3MM .json and mod settings files and did not uber-goof that stuff again.
+15. TWEAKED Combat Extender further. Regard changes in the Listo instructions document regarded recommended party size, which is now 4 in Act 1; 5 in Act 2; and 6 in Act 3 (the old recommendation was 6 in all acts). Enemies have been made tougher again, in line with or above the CX "Harder Enemies and Bosses" config, in addition to various direct edits made to many Act 1 and some Act 2/3 bosses and encounters. I hope that, combined with the changes to XP, players feel challenged to consider their equipment, options, class features, and game mechanics with more critical thinking that ever before in BG3; but no one feels punished by an anti-fun, overly difficult, slow and excruciating experience. There is no shame in making the game easier for yourself by using more party members (why not bring the whole camp when fighting an entire goblin army?), the game is in your hands and Listonomicon wants to empower YOUR fun. Change stuff, turn mods off, add new ones, make the game even harder if you want to, just make sure when providing feedback and reporting bugs that you let us know what you have changed, or else it is a lot harder to help!
+
 # Listonomicon v0.9.9.7
 # The Deities & Demigods Update 2
 # Save safe from v0.9.9.6? Maybe - no if you are playing a lich.
