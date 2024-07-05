@@ -10,6 +10,24 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
 # Listonomicon v0.9.9.8
+# The QoL also No More Scaling Update
+# Save safe? Yes from v0.9.9.8
+
+1. ADDED Poesielibre's Githyanki Head Trio, adding more Gith head options.
+2. ADDED Lydia's Heads - Dark Seldarine, adding more elf head options.
+3. ADDED Understated, adding more realistic eye options or hint-of-glow/fantasy but realistic eye options.
+4. ADDED Astralities' Wondrous Skintones, providing even more skin color options.
+5. ADDED Reforged Head, adding more male draongborn head options.
+6. ADDED Elixers Revised. Note that this makes a lot of tweaks to how all elixers / "until long rest" potions work, making some of them less useless.
+7. ADDED Speak With Animals AoE. SWA is now an AoE spell, allowing you to share it with your entire party at once.
+8. ADDED Longstrider AoE. Longstrider is now an AoE spell, allowing you to hit your entire party at once after a long rest.
+9. UPDATED several mods.
+10. CHANGED Combat Extender, again.
+      10.1: Removed the "enemies scale to the player's level" part of the code.
+      10.2: Tweaked enemy stats accordingly. Enemies will receive buffs to their HP based on the player's level according to my testing, but their buffs to everything else (rolls, dice, stats) will rely on their vanilla level rather than scaling to you and then calculating.
+11. ADDED an optional section. If you feel strongly that leveling up faster is more fun, enable Fast 3 Quick 20 - Faster XP (and then make sure to disable Fast 3 Quick 6 Slow 20). The actual mod .pak name is the same so you do not have to touch anything in BG3MM.
+
+# Listonomicon v0.9.9.8
 # The [Witty Title] Update
 # Save safe? No. No. No. Absolutely not.
 
