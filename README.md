@@ -26,6 +26,7 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
       10.1: Removed the "enemies scale to the player's level" part of the code.
       10.2: Tweaked enemy stats accordingly. Enemies will receive buffs to their HP based on the player's level according to my testing, but their buffs to everything else (rolls, dice, stats) will rely on their vanilla level rather than scaling to you and then calculating.
 11. ADDED an optional section. If you feel strongly that leveling up faster is more fun, enable Fast 3 Quick 20 - Faster XP (and then make sure to disable Fast 3 Quick 6 Slow 20). The actual mod .pak name is the same so you do not have to touch anything in BG3MM.
+12. REMOVED Valdacil's buff hider mod. Positive buffs (including "lasts until long rest" ones) will appear next to your party member icons again.
 
 # Listonomicon v0.9.9.8
 # The [Witty Title] Update
