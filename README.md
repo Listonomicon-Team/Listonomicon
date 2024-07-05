@@ -9,7 +9,7 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-# Listonomicon v0.9.9.8
+# Listonomicon v0.9.9.9
 # The QoL also No More Scaling Update
 # Save safe? Yes from v0.9.9.8
 
