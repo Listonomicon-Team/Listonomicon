@@ -9,6 +9,28 @@ Find us on [Nexus](https://www.nexusmods.com/baldursgate3/mods/8976?tab=descript
 
 * [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v0.9.9.99
+# Fixing Stragglers
+# Save safe? Kinda from v0.9.9.9
+
+1. ADDED Grove and Growl Act 1 and 2, adding druid-focused gear to the game.
+2. ADDED Necromancy of Thay rebalance, making the book more than just a convenient way to get speak to dead.
+3. ADDED Corrosive Ring, a new ring for spicier weapon attacks.
+4. ADDED Unholy Oathbreakers, allowing Oathbreakers to better buff their own undead adn dish necrotic damage.
+5. ADDED Fix Stragglers, which helps your entire party with a temporary jump height buff after you jump, to help them keep up!
+6. ADDED Waiting With Style, adding act-sensitive new loading screens.
+7. ADDED Gear Revised - Footwear. Replaces the effects of many footwear items with less lame ones, hopefully without going as far as the old VEO did.
+8. Automated Summons. This breaks Listo's "don't flood the UI with an annoying # of toggle abilities" but I promise this one is worth it - allow your summons to be AI controlled, vastly simplifying combat for players who love Scratch + the new Thay undead + the old Thay undead + summon undead + summon elemental + summon etc etc etc. :)
+9. ADDED 5e Reckless Attack, which changes reckless attack to a toggle passive for barbarians. You have to dedicate to using it, you don't get to swing, miss, and then invoke it.
+10. ADDED Rat-Catcher's Flute.
+11. ADDED Relative Ability Boost Items. This vastly cuts down on the number of magic items that set the owner's stat to a certain number, and changes them to instead be +X stat items. This hopefully fixes some stat dumping cheese, while also opening new avenues for players to reach over 20 in their stats.
+12. ADDED Wayward Faces.
+13. ADDED Half Orc Heads.
+14. ADDED Kirby's Hair Pack.
+15. ADDED Pretty Boys.
+16. ADDED Scars and Horror Head Presets.
+17. TWEAKED mod settings, especially as some mods have updated to use MCM instead of their old config system. Make sure to update your mod settings when you update Listo!
+
 # Listonomicon v0.9.9.9
 # The QoL also No More Scaling Update
 # Save safe? Yes from v0.9.9.8
