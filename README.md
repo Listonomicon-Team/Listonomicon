@@ -1,3 +1,10 @@
+# **You are on the wrong page!**
+If you followed a link here, that link is out of date. Please @ajax in our Discord server and tell him what he needs to update. The official source for Listo news, updates, changelogs, install instructions, help, and guidance is the [BYC Wiki](https://www.modlists.net/docs/7listo/Home). The changelog below is not up to date and not all install instructions remain accurate -- please go to the new page!
+
+
+
+
+
 # Welcome to Listonomicon
 The goal of the “Listonomicon” is to be an out-of-the-box experience that enhances Baldurs Gate 3’s UI, quality of life, and replay value; introduces beloved aspects of the tabletop game’s past and present; and widens and deepens the game mechanics while respecting Larian’s vision for adapting DnD5e to an enjoyable cRPG. If you have questions, want to give feedback to the list curators, or run into trouble, please find ajax and LillyBird in [Boneyard Creations](https://discord.gg/UycnjCzKP8). If you face issues with the list, ask us first before bothering Wabbajack help or the creators of the many, many mods in Listonomicon.
 
