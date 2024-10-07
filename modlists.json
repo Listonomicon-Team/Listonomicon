@@ -27,21 +27,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listo%20Banner%20for%20Gallery%2016x9.webp",
       "readme": "https://www.modlists.net/docs/7listo/Install",
-      "download": "https://authored-files.wabbajack.org/Listonomicon.wabbajack_054d5417-d9c8-4cad-a507-1691b92bed05",
+      "download": "https://authored-files.wabbajack.org/Listonomicon.wabbajack_50246425-690a-441a-bf63-baa2b01ec1b7",
       "machineURL": "Listonomicon",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "bc9XxzNGjQM=",
-      "Size": 6475688,
-      "NumberOfArchives": 459,
-      "SizeOfArchives": 16921723713,
-      "NumberOfInstalledFiles": 3161,
-      "SizeOfInstalledFiles": 19982404915
+      "Hash": "8Azt+b8FDDk=",
+      "Size": 6486207,
+      "NumberOfArchives": 463,
+      "SizeOfArchives": 16995598310,
+      "NumberOfInstalledFiles": 3167,
+      "SizeOfInstalledFiles": 20067116897
     },
-    "version": "2.0",
+    "version": "2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-10-07T01:09:24.5000739Z",
+    "dateUpdated": "2024-10-07T14:48:38.8771542Z",
     "repositoryName": ""
   }
 ]
