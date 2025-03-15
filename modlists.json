@@ -2,10 +2,9 @@
   {
     "title": "Listonomicon",
     "description": "Listonomicon exists to celebrate Dungeons and Dragons past and present, bringing old and current published material (and limited, popular, third party, OSR, and Pathfinder) to Larian\u0027s adaptation of 5e. It improves UI, QoL, and gameplay mechanics while adding new options, encounters, dangers, cosmetics, and fun.",
-    "author": "Ajax and LillyBird",
+    "author": "Ajax with help",
     "maintainers": [
-      "github/ajaxxxxxxxx",
-      "github/LillyBird69"
+      "github/ajaxxxxxxxx"
     ],
     "game": "baldursgate3",
     "official": true,
@@ -39,7 +38,7 @@
       "NumberOfInstalledFiles": 3395,
       "SizeOfInstalledFiles": 24524042608
     },
-    "version": "4.2",
+    "version": "4.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-03-15T02:30:58.6248137Z",
     "repositoryName": ""
