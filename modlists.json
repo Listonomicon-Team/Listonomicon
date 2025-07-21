@@ -26,23 +26,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listo%20Banner%20for%20Gallery%2016x9.webp",
       "readme": "https://ajaxxxxxxxx.github.io/docs/1listo/Install",
-      "download": "https://authored-files.wabbajack.org/Listonomicon.wabbajack_c7b757a5-79f8-4671-b207-7eb64ece31ea",
+      "download": "https://authored-files.wabbajack.org/Listonomicon.wabbajack_23127673-7120-4bca-acc7-dd3845741bea",
       "machineURL": "Listonomicon",
       "discordURL": "https://discord.gg/AmxvjHkQ5v",
       "websiteURL": "https://ajaxxxxxxxx.github.io/docs/1listo/Home/"
     },
     "download_metadata": {
-      "Hash": "GkDqJ6sVbLg=",
-      "Size": 20798660,
-      "NumberOfArchives": 745,
-      "SizeOfArchives": 30546515348,
-      "NumberOfInstalledFiles": 3723,
-      "SizeOfInstalledFiles": 35819897277,
-      "TotalSize": 66366412625
+      "Hash": "UX5W1+neMJM=",
+      "Size": 20808650,
+      "NumberOfArchives": 750,
+      "SizeOfArchives": 30548731430,
+      "NumberOfInstalledFiles": 3733,
+      "SizeOfInstalledFiles": 35822726755,
+      "TotalSize": 66371458185
     },
-    "version": "6.1.5",
+    "version": "6.1.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-18T01:40:38.8695978Z",
+    "dateUpdated": "2025-07-21T01:19:24.295413Z",
     "repositoryName": ""
   }
 ]
