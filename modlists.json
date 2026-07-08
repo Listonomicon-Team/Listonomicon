@@ -30,7 +30,12 @@
       "machineURL": "Listonomicon",
       "discordURL": "https://discord.gg/AmxvjHkQ5v",
       "websiteURL": "https://ajaxxxxxxxx.github.io/docs/1listo/Home/",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "474247",
+        "slug": "wpljdl",
+        "domainName": "baldursgate3",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "BbTPPewy3Eo=",
